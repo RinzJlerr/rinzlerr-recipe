@@ -17,6 +17,8 @@ The photo by Juerg Vollmer - http://surl.li/bibpt , licenset: [CC BY 3.0](https:
 ## [*Ингредиенты*](./Ingredients.md)
 ## [*Полезный Совет*](./tip1.md)
 
+## [Пищевая ценность](./the-nutritional-value.md)
+
 ---
 
 # ПОШАГОВЫЙ РЕЦЕПТ ПРИГОТОВЛЕНИЯ - [Шаг-1:](./cookingprocess.md)
