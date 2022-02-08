@@ -1,3 +1,5 @@
+
+
 # Рецепт сырников
 
 LICENSE: [MIT](./license.md)
@@ -17,11 +19,18 @@ The photo by Juerg Vollmer - http://surl.li/bibpt , licenset: [CC BY 3.0](https:
 ## [*Ингредиенты*](./Ingredients.md)
 ## [*Полезный Совет*](./tip1.md)
 
-## [Пищевая ценность](./the-nutritional-value.md)
+## [*Пищевая ценность*](./the-nutritional-value.md)
+
 
 ---
 
 # ПОШАГОВЫЙ РЕЦЕПТ ПРИГОТОВЛЕНИЯ - [Шаг-1:](./cookingprocess.md)
 
 [Оригинальный источник](https://www.gastronom.ru/recipe/4900/syrniki)
+
+
+### [*Первая разновидность рецепта*](./ingredients-2.md) ###
+
+### [*Вторая разновидность рецепта*](./ingredients-3.md)
+
 
