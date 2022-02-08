@@ -8,7 +8,7 @@ LICENSE: [MIT](./license.md)
 
 ---
 ### Сырники домашние
-The photo by Juerg Vollmer - http://surl.li/bibpt , licenset: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+The photo by Juerg Vollmer - https://www.flickr.com/photos/maiakinfo/5536496181 , licenset: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
 ---
 
