@@ -21,3 +21,5 @@ The photo by Juerg Vollmer - http://surl.li/bibpt, licenset: [CC BY 3.0](https:/
 
 # ПОШАГОВЫЙ РЕЦЕПТ ПРИГОТОВЛЕНИЯ - [Шаг-1:](./cookingprocess.md)
 
+[Оригинальный источник](https://www.gastronom.ru/recipe/4900/syrniki)
+
